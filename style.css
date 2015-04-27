@@ -1,5 +1,10 @@
 header {
-  background: #8becef;
+ /* background: #8becef;*/
+  background: url(colorado.jpg);
+  height: 700px;
+  width: 750px;
+  font: san-serif;
+
 }
 
 h1 {
