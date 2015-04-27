@@ -1,0 +1,12 @@
+header {
+  background: #8becef;
+}
+
+h1 {
+  color: #8becef;
+  font: Helvetica;
+}
+
+.item h1 {
+  color: red;
+}
