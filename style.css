@@ -1,10 +1,16 @@
 header {
- /* background: #8becef;*/
-  background: url(colorado.jpg);
-  height: 700px;
-  width: 750px;
-  font: san-serif;
+  background:  #8becef url(colorado.jpg);
+  height: auto;
+  width: auto;
+  font-family: Helvetica, sans-serif;
+  font-size: 5em;
+  padding: 1em;
+  color: #fff;
+}
 
+header img{
+  height: 10;
+  width: auto;
 }
 
 h1 {
